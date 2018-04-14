@@ -14,6 +14,7 @@ namespace CodeGeneration
 {
     public partial class Form1 : Form
     {
+        //测试Github
         public string cnnStr = ConfigurationManager.AppSettings["cnnStr"].ToString();
         private string filePath = ConfigurationManager.AppSettings["path"].ToString();
 
